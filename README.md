@@ -1,4 +1,4 @@
-# Crop Disease Detection using Deep Learning
+# Crop Disease Detection using AI
 
 This project is part of my final year work (FYP) for my BSc in Computer Science (Artificial Intelligence) at Brunel University London. The goal is to detect and classify crop diseases using advanced computer vision techniques, providing farmers with early warnings and suggestions for treatment.
 
